@@ -1,0 +1,17 @@
+E:\Net Framework\Learn\Helloworld\Helloworld\bin\Debug\Helloworld.exe.config
+E:\Net Framework\Learn\Helloworld\Helloworld\bin\Debug\Helloworld.exe
+E:\Net Framework\Learn\Helloworld\Helloworld\bin\Debug\Helloworld.pdb
+E:\Net Framework\Learn\Helloworld\Helloworld\obj\Debug\Helloworld.csprojAssemblyReference.cache
+E:\Net Framework\Learn\Helloworld\Helloworld\obj\Debug\Helloworld.Properties.Resources.resources
+E:\Net Framework\Learn\Helloworld\Helloworld\obj\Debug\Helloworld.csproj.GenerateResource.cache
+E:\Net Framework\Learn\Helloworld\Helloworld\obj\Debug\Helloworld.csproj.CoreCompileInputs.cache
+E:\Net Framework\Learn\Helloworld\Helloworld\obj\Debug\Helloworld.exe
+E:\Net Framework\Learn\Helloworld\Helloworld\obj\Debug\Helloworld.pdb
+E:\Net Framework\Learn\Helloworld\Helloworld\obj\Debug\Helloworld.frmSinhVien.resources
+E:\Net Framework\Learn\Helloworld\Helloworld\obj\Debug\Helloworld.frmTinhToanCoBan.resources
+E:\Net Framework\Learn\Helloworld\Helloworld\bin\Debug\DATA\datastudent.txt
+E:\Net Framework\Learn\Helloworld\Helloworld\bin\Debug\DATA\dataqtht.txt
+E:\Net Framework\Learn\Helloworld\Helloworld\obj\Debug\Helloworld.frmQuaTrinhHocTap.resources
+E:\Net Framework\Learn\Helloworld\Helloworld\obj\Debug\Helloworld.frmThongTinSinhVienChiTiet.resources
+E:\Net Framework\Learn\Helloworld\Helloworld\obj\Debug\Helloworld.FormContacts.resources
+E:\Net Framework\Learn\Helloworld\Helloworld\bin\Debug\DATA\datacontacts.txt
